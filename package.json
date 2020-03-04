@@ -1,0 +1,17 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "Verificação de licenças, utilizando o método GET, para adaptação em projetos.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.0",
+    "mysql": "^2.17.1",
+    "uuid-random": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JVinicius",
+  "license": "ISC"
+}

@@ -1,0 +1,9 @@
+{
+	"mysql":{
+		"ip": "127.0.0.1",
+		"usuario": "root",
+		"senha": "jv153123",
+		"database": "auth_jv"
+	},
+	"porta": 8383
+}
